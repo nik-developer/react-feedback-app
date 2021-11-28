@@ -1,0 +1,15 @@
+.buttons {
+padding: 10px;
+border: none;
+outline: rgb(207, 193, 219);;
+border-radius: 5px;
+    
+}
+.buttons:hover {
+    background-color: rgb(207, 193, 219);
+    transition:  300ms ease-in-out, color 300ms ease-in-out;
+}
+.buttons:not(:last-child) {
+margin-right: 12px;
+    
+}

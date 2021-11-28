@@ -1,0 +1,9 @@
+.centeredDiv {
+margin-top: 40px;
+margin-left: auto;
+margin-right: auto;
+padding: 20px;
+outline: solid 3px black;
+width: 400px;
+
+}
